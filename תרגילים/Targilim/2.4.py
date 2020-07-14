@@ -1,0 +1,5 @@
+sentance = input("write something: ")
+print(len(sentance))
+print(sentance[2:6])
+print(sentance[0]*3)
+print(str.capitalize(sentance))
